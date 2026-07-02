@@ -1,4 +1,4 @@
-# Clinical Prediction – Keras
+# Clinical Prediction – Keras (TensorFlow)
 
 This project demonstrates a machine learning workflow for clinical data analysis using neural networks built with Keras. The goal is to explore how structured biomedical data can be used to build predictive models in a clinical context.
 
